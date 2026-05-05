@@ -1,4 +1,4 @@
-# alchemy-grove
+# Alchemy Grove
 
 ## Status do projeto
 
